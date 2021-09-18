@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "countries-app-e4435": {
+      "hosting": {
+        "oracleapp": [
+          "countries-app-e4435"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "countries-app-e4435"
+  }
+}
